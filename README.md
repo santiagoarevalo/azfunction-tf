@@ -1,3 +1,22 @@
+# Proofs Exercise:
+
+1. Terraform Plan
+
+![image](https://github.com/santiagoarevalo/azfunction-tf/assets/71450411/d67dd783-3c34-4d3d-82b3-3dd1f8dd41f9)
+
+2. Terraform Apply
+
+![image](https://github.com/santiagoarevalo/azfunction-tf/assets/71450411/bde7e046-bbd9-473c-afe5-6380631029d5)
+
+3. Azure Function App Enabled
+
+![image](https://github.com/santiagoarevalo/azfunction-tf/assets/71450411/c5d630e6-7f96-4710-ab80-bed61c61dd67)
+
+4. App Running
+
+![image](https://github.com/santiagoarevalo/azfunction-tf/assets/71450411/508a997a-697e-446a-a330-15dd8e010561)
+
+
 # azfunction-tf
 ###  **Infracestructura como codigo**
 
